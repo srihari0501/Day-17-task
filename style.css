@@ -1,0 +1,24 @@
+
+
+.img{
+    width: 100px;
+    height: 150px;
+    border: 1px solid black;
+}
+body{
+    background-image: url('https://img.freepik.com/premium-vector/weather-widget-template_145666-717.jpg?size=626&ext=jpg&ga=GA1.1.1564686621.1702918120&semt=ais');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.card {
+    margin: 10px;
+    text-align: center;
+    backdrop-filter: blur(16px) saturate(180%);
+    -webkit-backdrop-filter: blur(16px) saturate(180%);
+    background-color: rgba(216, 216, 226, 0.75);
+    border-radius: 12px;
+    border: 1px solid rgba(255, 255, 255, 0.125);
+}
+
